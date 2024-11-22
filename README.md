@@ -21,8 +21,6 @@ Here’s the truth table for a 1-bit full adder:
 
 ![tt](https://github.com/user-attachments/assets/0b3ab24f-1d7e-4a01-80ce-5e7406f4082b)
 
-## Result:
-The functionality of a 4-bit adder was successfully verified using a test bench and sumulated with the nclaunch tool.
 
 ### Fig 1 : Diagram and truth table of full adder
 
@@ -251,6 +249,9 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 <img src="https://github.com/user-attachments/assets/36782a6a-6ade-4487-8fdb-e0fb9a731892" width="750" height="480">
 
 ### Fig 11: Simulation Waveform Window
+
+## Result:
+The functionality of a 4-bit adder was successfully verified using a test bench and sumulated with the nclaunch tool.
 
 
 
