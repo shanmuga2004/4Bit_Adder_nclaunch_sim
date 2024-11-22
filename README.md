@@ -21,6 +21,9 @@ Here’s the truth table for a 1-bit full adder:
 
 ![tt](https://github.com/user-attachments/assets/0b3ab24f-1d7e-4a01-80ce-5e7406f4082b)
 
+## Result:
+The functionality of a 4-bit adder was successfully verified using a test bench and sumulated with the nclaunch tool.
+
 ### Fig 1 : Diagram and truth table of full adder
 
 ### Logic Expressions:
